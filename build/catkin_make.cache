@@ -1,0 +1,2 @@
+program1
+-DCATKIN_DEVEL_PREFIX=/home/zera/ros/devel -DCMAKE_INSTALL_PREFIX=/home/zera/ros/install -G Unix Makefiles

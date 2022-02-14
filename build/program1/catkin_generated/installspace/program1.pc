@@ -1,0 +1,8 @@
+prefix=/home/zera/ros/install
+
+Name: program1
+Description: Description of program1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
